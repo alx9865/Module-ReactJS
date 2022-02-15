@@ -1,9 +1,4 @@
-function pendu() {
-  return (
-    <div>
-      <p>Hello world</p>
-    </div>
-  );
+export default function Comp() {
+  let hello = "Hello";
+  return <h2>First component, {hello}</h2>;
 }
-
-//export default function pendu()
