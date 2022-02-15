@@ -13,7 +13,7 @@ function App() {
             <button variant="primary" as={Link} to="/components/jouer/">
               Jouer
             </button>
-            <button variant="primary" as={Link} to="">
+            <button variant="secondary" as={Link} to="">
               Liste
             </button>
           </Row>
