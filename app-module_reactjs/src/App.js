@@ -10,12 +10,12 @@ function App() {
         <header className="App-header">
           <p>Jeu du pendu</p>
           <Row>
-            <Link to="">
-              <button variant="primary" as={Link} to="/components/jouer.jsx">
-                Jouer
-              </button>
-            </Link>
-            <button>Liste</button>
+            <button variant="primary" as={Link} to="/components/jouer/">
+              Jouer
+            </button>
+            <button variant="primary" as={Link} to="">
+              Liste
+            </button>
           </Row>
         </header>
       </div>
