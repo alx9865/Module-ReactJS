@@ -1,0 +1,19 @@
+{
+  "name": "module-reactjs",
+  "version": "1.0.0",
+  "description": "Examen ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alx9865/Module-ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alx9865/Module-ReactJS/issues"
+  },
+  "homepage": "https://github.com/alx9865/Module-ReactJS#readme"
+}
