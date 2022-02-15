@@ -14,9 +14,17 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  justify-content: top;
+  font-size: calc(50px + 2vmin);
   color: black;
+}
+
+.square {
+  background: black;
+  width: 1000px;
+  height: 1000px;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-link {
